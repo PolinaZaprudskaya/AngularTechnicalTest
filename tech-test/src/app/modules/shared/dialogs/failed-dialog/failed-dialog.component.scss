@@ -1,0 +1,13 @@
+@import 'src/assets/styles/colors';
+
+:host {
+  .error-message {
+    background: $white;
+    padding: 30px;
+    text-align: center;
+    width: 300px;
+    border-radius: 20px;
+    color: $red;
+    font-size: 30px;
+  }
+}

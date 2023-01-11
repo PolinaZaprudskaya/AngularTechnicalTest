@@ -17,7 +17,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "@common/*": ["src/app/common/*"],
+      "@shared/*": ["src/app/modules/shared/*"],
+      "@dialog/*": ["src/app/modules/dialog/*"],
+      "@tasks/*": ["src/app/modules/tasks/*"],
+      "@statistic/*": ["src/app/modules/statistic/*"],
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,

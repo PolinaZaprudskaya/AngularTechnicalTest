@@ -2,17 +2,31 @@
   "tasks": [
     {
       "id": 1,
-      "label": "Kitchen Cleanup",
-      "description":  "Clean my dirty kitchen",
-      "category": "house",
-      "done": false
+      "label": "English class",
+      "description": "Some description",
+      "category": "work",
+      "done": "2023-01-11T08:56:10.592Z"
     },
     {
       "id": 2,
-      "label": "Taxes",
-      "description":  "Start doing my taxes and contact my accountant jhon for advice",
-      "category": "bureaucracy",
-      "done": "22-10-2019"
+      "label": "Clean house",
+      "description": "Some description",
+      "category": "house",
+      "done": "2023-01-11T08:56:11.670Z"
+    },
+    {
+      "id": 3,
+      "label": "Pole dance",
+      "description": "Some description",
+      "category": "sport",
+      "done": false
+    },
+    {
+      "id": 4,
+      "label": "Gym",
+      "description": "Some description",
+      "category": "sport",
+      "done": false
     }
   ]
 }
